@@ -1,1 +1,2 @@
-# calculadorareact
+Projeto desenvolvido no Fullstack Master.
+
